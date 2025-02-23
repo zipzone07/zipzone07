@@ -32,4 +32,4 @@
 | Название | Описание | Язык программирования | Добавлено в избранное | Вклад в репозиторий |
 | :----------------------: | :----------------------: | :----------------------: | :----------------------: | :----------------------: |
 | [Я.Практикум](https://github.com/zipzone07/stability) | .... | Python | <a href="https://github.com/zipzone07/stability/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/zipzone07/stability?style=flat-square&labelColor=343b41" /></a> | <a href="https://github.com/zipzone07/stability/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/zipzone07/stability?style=flat-square&labelColor=343b41"/></a> |
-| БАЗИС-Мебельщик | .... | JavaScript | ... | ... |
+| [БАЗИС-Мебельщик](https://github.com/zipzone07/bazis) | .... | JavaScript | <a href="https://github.com/zipzone07/bazis/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/zipzone07/bazis?style=flat-square&labelColor=343b41" /></a> | <a href="https://github.com/zipzone07/bazis/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/zipzone07/bazis?style=flat-square&labelColor=343b41"/></a> |
